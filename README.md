@@ -1,0 +1,8 @@
+# C++ learning 002
+
+Learning/practicing C++ from the book  
+`Programming: Principles and Practice using C++`   
+by `Bjarne stroustrup` the creator of C++  
+2nd edition  
+published in 2014  
+uses mainly C\+\+11 and C\+\+14  

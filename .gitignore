@@ -1,0 +1,20 @@
+# Visual Studio temporary files, build results, and user-specific files
+.vs/
+[Dd]ebug/
+[Rr]elease/
+*.vcxproj.user
+*.sdf
+*.suo
+*.opensdf
+*.userprefs
+ipch/
+*.ilk
+*.log
+*.tlog/
+*.obj
+*.exe
+*.pdb
+*.idb
+*.pch
+*.lib
+*.exp
