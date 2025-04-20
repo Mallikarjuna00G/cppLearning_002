@@ -6,3 +6,7 @@ by `Bjarne stroustrup` the creator of C++
 2nd edition  
 published in 2014  
 uses mainly C\+\+11 and C\+\+14  
+
+## Part I: The Basics
+
+[Chapter 2: Hello, World!](./ch02)
