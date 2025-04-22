@@ -10,3 +10,4 @@ uses mainly C\+\+11 and C\+\+14
 ## Part I: The Basics
 
 [Chapter 2: Hello, World!](./ch02)
+[Chapter 3: Objects, types, and values](./ch03)
