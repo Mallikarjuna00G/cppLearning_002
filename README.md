@@ -13,3 +13,4 @@ uses mainly C\+\+11 and C\+\+14
 [Chapter 3: Objects, types, and values](./ch03)  
 [Chapter 4: Computation](./ch04)  
 [Chapter 5: Errors](./ch05)  
+[Chapter 6: Writing a Program](./ch06)  
